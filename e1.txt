@@ -14,6 +14,7 @@ e1
         <p>February 2026</p>
          <p>my name is fahad</p>
         <ol>
+            <li>Write your name</li>
             <li>Write a blog post</li>
             <li>Go to the bank</li>
             <li>Study for exams</li>
