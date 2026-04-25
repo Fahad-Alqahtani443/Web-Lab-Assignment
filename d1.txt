@@ -35,6 +35,7 @@ d1
         <li>Polar Bear</li>
         <li>Black Bear</li>
     </ol>
+                <h3>My Progress</h3>
 
     <img src="bear.jpg" alt="Bear image" width="300">
 
