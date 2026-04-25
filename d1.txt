@@ -1,0 +1,42 @@
+d1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+
+    <h1>The Bear</h1>
+
+    <p>
+        Bears are large mammals that belong to the family Ursidae.
+        They are found in many parts of the world and are known for
+        their strength and thick fur.
+    </p>
+
+    <p>
+        Learn more about brown bears from the following link:
+        <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">
+            Brown Bear Wikipedia
+        </a>
+    </p>
+
+    <h2>Bear Characteristics</h2>
+    <ul>
+        <li>Strong body</li>
+        <li>Thick fur</li>
+        <li>Sharp claws</li>
+    </ul>
+
+    <h2>Types of Bears</h2>
+    <ol>
+        <li>Brown Bear</li>
+        <li>Polar Bear</li>
+        <li>Black Bear</li>
+    </ol>
+
+    <img src="bear.jpg" alt="Bear image" width="300">
+
+</body>
+</html>
