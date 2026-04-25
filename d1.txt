@@ -38,6 +38,6 @@ d1
                 <h3>My Progress</h3>
 
     <img src="bear.jpg" alt="Bear image" width="300">
-
+<p>This is my second change.</p>
 </body>
 </html>
